@@ -47,6 +47,4 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anaslari23&label=Profile%20Views&color=0&icon=5&pretty=true)](https://visitcount.itsvg.in)
-
-
 ![Contribution Graph](https://raw.githubusercontent.com/anaslari23/anaslari23/output/github-contribution-grid-snake.svg)
