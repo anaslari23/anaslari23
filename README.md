@@ -33,9 +33,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
 
-# 🚀 Featured Projects
-[![Voice2Code](https://github-readme-stats.vercel.app/api/pin/?username=anaslari23&repo=Voice2Code&theme=radical)](https://github.com/anaslari23/Voice2Code)
-[![MedVisionAI](https://github-readme-stats.vercel.app/api/pin/?username=anaslari23&repo=MedVisionAI&theme=radical)](https://github.com/anaslari23/MedVisionAI)
 
 # 📊 Development Pulse
 ![](https://github-readme-stats.vercel.app/api?username=anaslari23&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)
