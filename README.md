@@ -150,13 +150,17 @@ Dataset uploaded to **Kaggle**.
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Analytics
 <p align="center">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=anaslari23&theme=transparent&hide_border=true">
+  <img src="https://streak-stats.demolab.com?user=anaslari23&theme=transparent&hide_border=true" />
 </p>
 
 <p align="center">
-  <img width="80%" src="https://raw.githubusercontent.com/anaslari23/anaslari23/output/github-contribution-grid-snake.svg">
+  <img src="https://github-readme-stats.vercel.app/api?username=anaslari23&show_icons=true&theme=transparent&hide_border=true" width="60%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaslari23&theme=github-light&hide_border=true" width="90%" />
 </p>
 
 ---
