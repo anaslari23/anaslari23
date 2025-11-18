@@ -1,50 +1,176 @@
-# 💫 About Me:
-🔭 **AI Explorer** – Building neural networks to solve real-world problems in NLP and computer vision.<br>
-🌱 **ML/DL Enthusiast** – Specializing in Transformer models, GANs, and reinforcement learning.<br>
-💻 **Full-Stack Developer** – Crafting seamless web experiences with Laravel/Node and mobile apps with Flutter.<br>
-🎯 **2023 Goal** – Contributing to TensorFlow Extended (TFX) and PyTorch Lightning open-source projects.<br>
-⚡ **Fun Fact** – I dance between Python, JavaScript, Dart, PHP, and C++ like a polyglot ninja!
+<!-- Enhanced Minimal Portfolio-Style GitHub README -->
 
-## 🌐 Let's Connect:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20Professionally-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/anas-lari-2626aa247/)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20My%20Code-181717?style=for-the-badge&logo=github)](https://github.com/anaslari23)
-[![Gmail](https://img.shields.io/badge/Email%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anaslari4work@gmail.com)
+<h1 align="center">👋 Hey, I'm <strong>Anas Lari</strong></h1>
+<p align="center">
+  AI Engineer • Full-Stack Developer • Mobile App Builder • Web Engineer  
+</p>
 
-# 💻 Tech Stack:
-### 🤖 AI/ML Arsenal
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,flutter,react,tensorflow,laravel,nodejs" />
+</p>
 
-### 🌐 Web Wizardry
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)
-
-### 📱 Mobile Mastery
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
-
-### 🛠️ DevOps & Databases
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=black)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-
-
-# 📊 Development Pulse
-![](https://github-readme-stats.vercel.app/api?username=anaslari23&theme=nightowl&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-streak-stats.herokuapp.com/?user=anaslari23&theme=nightowl&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anaslari23&theme=nightowl&hide_border=true&layout=compact)
-
-# 🏆 GitHub Glory
-![](https://github-profile-trophy.vercel.app/?username=anaslari23&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
-
-### 💡 Coding Philosophy
-![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=merko)
+<br>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=anaslari23&label=Profile%20Views&color=6)](https://visitcount.itsvg.in)
-![Contribution Graph](https://raw.githubusercontent.com/anaslari23/anaslari23/output/github-contribution-grid-snake.svg)
+
+# 📌 About Me
+I’m an engineer passionate about building **AI-driven platforms, robust backend systems, and seamless user interfaces**.
+
+I blend:
+- **Artificial Intelligence** → LLMs, Vision, OCR, RL  
+- **Full-Stack Engineering** → APIs, microservices, system design  
+- **Mobile Development** → Flutter apps with clean architecture  
+- **Web Engineering** → Modern UI, fast backend, secure systems  
+
+My philosophy:  
+**Minimal UI. Maximum Intelligence. Smooth Experience.**
+
+---
+
+# 🧠 Skills & Tools (Portfolio Style)
+
+## 🤖 Artificial Intelligence
+<p>
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
+</p>
+
+- Transformers (GPT, BERT, custom LLMs)  
+- Vision Systems: Face Recognition, Image Processing, OCR  
+- Reinforcement Learning agents  
+- Dataset building & model optimization  
+
+---
+
+## 🌐 Web & Backend Engineering
+<p>
+  <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,html,css,js" />
+</p>
+
+### **Frontend Expertise**
+- Clean, responsive and modern UI design  
+- SPA applications using **React**, **Vue**, **Next.js** (experience)  
+- Reusable component-driven UI architecture  
+- Strong CSS fundamentals (Flexbox, Grid, animations)  
+- UI frameworks → Tailwind CSS, Bootstrap, Material UI  
+
+<p>
+  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,laravel,php" />
+</p>
+
+### **Backend Expertise**
+- REST API design & microservice architecture  
+- Authentication systems → JWT, OAuth2  
+- Secure routing & middleware  
+- File handling, background tasks, queues  
+- High-performance services with:
+  - **FastAPI**
+  - **Node.js / Express**
+  - **Laravel / PHP**
+
+### **Web App Focus Areas**
+- Dashboard systems  
+- AI-integrated web apps  
+- Realtime apps (WebSockets)  
+- E-commerce systems  
+- Admin dashboards & analytics  
+
+---
+
+## 📱 Mobile Development
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
+</p>
+
+- BLoC, Provider, Riverpod architecture  
+- Firebase Auth, Firestore, Cloud Functions  
+- Custom UI widgets & animations  
+- Offline storage, caching, optimization  
+
+---
+
+## 🗄️ Databases & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,githubactions" />
+</p>
+
+- PostgreSQL • MySQL • Firestore • Redis  
+- Dockerized environments  
+- CI/CD workflows  
+- Linux server handling  
+
+---
+
+# ⭐ Featured Projects
+
+### 🩺 **MM-HIE — Multimodal Healthcare Intelligence Engine**
+AI system that mimics clinical reasoning:  
+- Reads PDFs (prescriptions, reports)  
+- Extracts medical data  
+- Asks follow-up questions  
+- Highlights abnormalities  
+
+**Stack:** FastAPI • TensorFlow • OCR • LangChain • PostgreSQL
+
+---
+
+### 🤖 **Face-Verified Personal AI Assistant**
+MAX(A Jarvis-like AI that):  
+- Recognizes face → unlocks  
+- Responds to wake-word  
+- Speaks, listens, executes system commands  
+- Uses a local LLM for offline tasks  
+
+**Stack:** OpenCV • TensorFlow • Python • SpeechRecognition
+
+---
+
+### 🏙️ **Kolkata Tour AI**
+AI-powered tourism platform:  
+- Place suggestions  
+- Route generation  
+- History extraction via OCR  
+- Local recommendations  
+
+**Stack:** MySQL • Flask • Recommendation Engine  
+
+---
+
+### 🎮 **2D Racing Game + RL Bot**
+- Car physics + collision  
+- Sensors for AI perception  
+- RL bot that learns to drive  
+
+**Stack:** Pygame • RL • NumPy  
+
+---
+
+### 🕵️‍♂️ **Forgery Detection Dataset**
+OCR + text comparison + metadata consistency checks.  
+Dataset uploaded to **Kaggle**.
+
+---
+
+# 📊 GitHub Analytics
+<p align="center">
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=anaslari23&theme=transparent&hide_border=true">
+</p>
+
+<p align="center">
+  <img width="80%" src="https://raw.githubusercontent.com/anaslari23/anaslari23/output/github-contribution-grid-snake.svg">
+</p>
+
+---
+
+
+# 🌐 Connect
+<p>
+  <a href="https://www.linkedin.com/in/anas-lari-2626aa247/"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a>
+  <a href="https://github.com/anaslari23"><img src="https://skillicons.dev/icons?i=github" width="45px"/></a>
+  <a href="mailto:anaslari4work@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="45px"/></a>
+</p>
+
+---
+
+# 🧠 Philosophy
+> _“Minimal design. Maximum depth.”_  
+> _“I build systems that think, adapt, and last.”_
