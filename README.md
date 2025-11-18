@@ -27,7 +27,7 @@ My philosophy:
 
 ---
 
-# 🧠 Skills & Tools (Portfolio Style)
+# 🧠 Skills & Tools 
 
 ## 🤖 Artificial Intelligence
 <p>
