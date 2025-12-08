@@ -1,156 +1,170 @@
-<!-- Enhanced Minimal Portfolio-Style GitHub README -->
-
-<h1 align="center">👋 Hey, I'm <strong>Anas Lari</strong></h1>
+<h1 align="center"><strong>Anas Lari</strong></h1>
 <p align="center">
-  AI Engineer • Full-Stack Developer • Mobile App Builder • Web Engineer  
+  AI Engineer • Full-Stack Developer • Mobile Developer • Systems Architect
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,flutter,react,tensorflow,laravel,nodejs" />
+  <img src="https://skillicons.dev/icons?i=python,flutter,react,tensorflow,fastapi,nodejs,php" />
 </p>
 
-<br>
+---
+
+# 📌 Professional Overview
+I am an engineer focused on designing and developing **intelligent systems**, **scalable backend architectures**, and **high-quality cross-platform applications**.  
+My work integrates advanced AI capabilities with clean, reliable engineering to build solutions that are both powerful and practical.
+
+I specialize in:
+- **Artificial Intelligence & Applied Machine Learning**  
+- **Secure and High-Performance Backend Systems**  
+- **Cross-Platform Mobile Development (Flutter)**  
+- **Production-Grade Web Applications (React / Next.js)**  
+- **Large-Scale System Architecture & Automation**
+
+My guiding principle:  
+**“Precision in design. Intelligence in function.”**
 
 ---
 
-# 📌 About Me
-I’m an engineer passionate about building **AI-driven platforms, robust backend systems, and seamless user interfaces**.
+# 🧠 Core Technical Expertise
 
-I blend:
-- **Artificial Intelligence** → LLMs, Vision, OCR, RL  
-- **Full-Stack Engineering** → APIs, microservices, system design  
-- **Mobile Development** → Flutter apps with clean architecture  
-- **Web Engineering** → Modern UI, fast backend, secure systems  
-
-My philosophy:  
-**Minimal UI. Maximum Intelligence. Smooth Experience.**
-
----
-
-# 🧠 Skills & Tools 
-
-## 🤖 Artificial Intelligence
+## 🤖 Artificial Intelligence & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 </p>
 
-- Transformers (GPT, BERT, custom LLMs)  
-- Vision Systems: Face Recognition, Image Processing, OCR  
-- Reinforcement Learning agents  
-- Dataset building & model optimization  
+- LLM development and fine-tuning  
+- Vision systems: face recognition, document analysis, forgery detection  
+- Reinforcement learning (custom training environments + agents)  
+- OCR pipelines and multimodal reasoning engines  
+- Dataset creation, model quantization, and performance optimization  
 
 ---
 
 ## 🌐 Web & Backend Engineering
 <p>
-  <img src="https://skillicons.dev/icons?i=react,vue,bootstrap,html,css,js" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,js,html,css" />
 </p>
 
-### **Frontend Expertise**
-- Clean, responsive and modern UI design  
-- SPA applications using **React**, **Vue**, **Next.js** (experience)  
-- Reusable component-driven UI architecture  
-- Strong CSS fundamentals (Flexbox, Grid, animations)  
-- UI frameworks → Tailwind CSS, Bootstrap, Material UI  
+### Frontend Development
+- Modern, highly responsive UI/UX  
+- Component-driven architectures  
+- SPA/SSR applications with React and Next.js  
+- Tailwind, Material UI, and custom design systems  
 
 <p>
   <img src="https://skillicons.dev/icons?i=fastapi,nodejs,laravel,php" />
 </p>
 
-### **Backend Expertise**
-- REST API design & microservice architecture  
-- Authentication systems → JWT, OAuth2  
-- Secure routing & middleware  
-- File handling, background tasks, queues  
-- High-performance services with:
-  - **FastAPI**
-  - **Node.js / Express**
-  - **Laravel / PHP**
-
-### **Web App Focus Areas**
-- Dashboard systems  
-- AI-integrated web apps  
-- Realtime apps (WebSockets)  
-- E-commerce systems  
-- Admin dashboards & analytics  
+### Backend Development
+- FastAPI, Node.js/Express, Laravel  
+- JWT/OAuth2 authentication and secure middleware  
+- Microservices & distributed systems  
+- Task queues, workers, and large-scale data pipelines  
+- Real-time communication (WebSockets)  
 
 ---
 
-## 📱 Mobile Development
+## 📱 Mobile Engineering
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
 
-- BLoC, Provider, Riverpod architecture  
+- BLoC / Provider / Riverpod architectures  
+- Production-ready Flutter applications  
 - Firebase Auth, Firestore, Cloud Functions  
-- Custom UI widgets & animations  
-- Offline storage, caching, optimization  
+- Custom animation workflows and adaptive UI  
 
 ---
 
-## 🗄️ Databases & DevOps
+## 🗄 Databases & DevOps
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,firebase,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,linux,githubactions" />
 </p>
 
-- PostgreSQL • MySQL • Firestore • Redis  
-- Dockerized environments  
-- CI/CD workflows  
-- Linux server handling  
+- PostgreSQL, MySQL, Redis, Firestore  
+- Dockerized AI and backend workflows  
+- CI/CD pipelines with GitHub Actions  
+- Linux server deployment & management  
 
 ---
 
-# ⭐ Featured Projects
+# ⭐ Featured Engineering & AI Projects
 
-### 🩺 **MM-HIE — Multimodal Healthcare Intelligence Engine**
-AI system that mimics clinical reasoning:  
-- Reads PDFs (prescriptions, reports)  
-- Extracts medical data  
-- Asks follow-up questions  
-- Highlights abnormalities  
+### 🗳️ **Cryptographically Secure E-Voting System**
+A fully verifiable national-scale voting prototype using:
+- Paillier homomorphic encryption  
+- Zero-Knowledge Proof validation  
+- Shamir Secret Sharing for distributed decryption  
+- Merkle-Tree-based immutable audit ledger  
 
-**Stack:** FastAPI • TensorFlow • OCR • LangChain • PostgreSQL
-
----
-
-### 🤖 **Face-Verified Personal AI Assistant**
-MAX(A Jarvis-like AI that):  
-- Recognizes face → unlocks  
-- Responds to wake-word  
-- Speaks, listens, executes system commands  
-- Uses a local LLM for offline tasks  
-
-**Stack:** OpenCV • TensorFlow • Python • SpeechRecognition
+**Stack:** Python • FastAPI • Cryptography • Distributed Systems  
 
 ---
 
-### 🏙️ **Kolkata Tour AI**
-AI-powered tourism platform:  
-- Place suggestions  
-- Route generation  
-- History extraction via OCR  
-- Local recommendations  
+### 🧠 **MM-HIE — Multimodal Healthcare Intelligence Engine**
+An AI system capable of clinical-grade reasoning:
+- Reads and interprets medical documents  
+- Extracts structured data using OCR + NLP  
+- Highlights abnormalities and generates insights  
+- Provides adaptive, reasoning-based follow-up queries  
 
-**Stack:** MySQL • Flask • Recommendation Engine  
-
----
-
-### 🎮 **2D Racing Game + RL Bot**
-- Car physics + collision  
-- Sensors for AI perception  
-- RL bot that learns to drive  
-
-**Stack:** Pygame • RL • NumPy  
+**Stack:** TensorFlow • FastAPI • LangChain • PostgreSQL  
 
 ---
 
-### 🕵️‍♂️ **Forgery Detection Dataset**
-OCR + text comparison + metadata consistency checks.  
-Dataset uploaded to **Kaggle**.
+### 🤖 **MAX — Face-Verified AI Assistant**
+A personal assistant with:
+- Real-time facial verification  
+- Wake-word activation  
+- Voice-driven task execution  
+- Local LLM for offline reasoning  
+- System-level automation  
+
+**Stack:** OpenCV • TensorFlow/PyTorch • SpeechRecognition • Python  
 
 ---
 
-## 📊 GitHub Analytics
+### 🌆 **Kolkata Tour AI**
+AI-powered tourism platform with:
+- Automated itinerary planning  
+- OCR-based historical information  
+- Geo-aware recommendations  
+
+**Stack:** Flask • MySQL • NLP  
+
+---
+
+### 📈 **AI Stock Market Predictor**
+- Predicts next-day market movement for NIFTY indices  
+- Integrates technical indicators + deep learning  
+- Designed for use within a production-grade Flutter UI  
+
+---
+
+### 🎮 **2D Racing Game with Reinforcement Learning Agent**
+- Custom physics engine and collision system  
+- Sensor-based environment perception  
+- RL agent trained to navigate autonomously  
+
+---
+
+### 🕵️ **Forgery Detection Dataset (Kaggle)**
+A curated dataset for document integrity analysis:
+- OCR mismatch detection  
+- Metadata validation  
+- Signature/stamp authenticity checks  
+
+---
+
+### 🌐 **Hideout — Cross-Platform Social Media Application**
+A next-generation social platform featuring:
+- Stories, posts, and real-time messaging  
+- Clean UI with high-performance Flutter architecture  
+- Secure backend and scalable design  
+
+---
+
+# 📊 GitHub Analytics
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=anaslari23&theme=transparent&hide_border=true" />
 </p>
@@ -165,8 +179,7 @@ Dataset uploaded to **Kaggle**.
 
 ---
 
-
-# 🌐 Connect
+# 🌐 Connect With Me
 <p>
   <a href="https://www.linkedin.com/in/anas-lari-2626aa247/"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a>
   <a href="https://github.com/anaslari23"><img src="https://skillicons.dev/icons?i=github" width="45px"/></a>
@@ -175,6 +188,6 @@ Dataset uploaded to **Kaggle**.
 
 ---
 
-# 🧠 Philosophy
-> _“Minimal design. Maximum depth.”_  
-> _“I build systems that think, adapt, and last.”_
+# 🧠 Engineering Philosophy
+> _“Precision, scalability, and intelligence are the foundation of every system I build.”_  
+> _“My goal is to develop technology that is dependable, adaptive, and impactful.”_
