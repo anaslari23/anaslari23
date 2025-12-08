@@ -9,7 +9,7 @@
 
 ---
 
-# 📌 Professional Overview
+#  Professional Overview
 I am an engineer focused on designing and developing **intelligent systems**, **scalable backend architectures**, and **high-quality cross-platform applications**.  
 My work integrates advanced AI capabilities with clean, reliable engineering to build solutions that are both powerful and practical.
 
@@ -20,14 +20,11 @@ I specialize in:
 - **Production-Grade Web Applications (React / Next.js)**  
 - **Large-Scale System Architecture & Automation**
 
-My guiding principle:  
-**“Precision in design. Intelligence in function.”**
-
 ---
 
-# 🧠 Core Technical Expertise
+#  Core Technical Expertise
 
-## 🤖 Artificial Intelligence & Machine Learning
+##  Artificial Intelligence & Machine Learning
 <p>
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 </p>
@@ -40,7 +37,7 @@ My guiding principle:
 
 ---
 
-## 🌐 Web & Backend Engineering
+##  Web & Backend Engineering
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,vue,tailwind,js,html,css" />
 </p>
@@ -64,7 +61,7 @@ My guiding principle:
 
 ---
 
-## 📱 Mobile Engineering
+##  Mobile Engineering
 <p>
   <img src="https://skillicons.dev/icons?i=flutter,dart,firebase" />
 </p>
@@ -76,7 +73,7 @@ My guiding principle:
 
 ---
 
-## 🗄 Databases & DevOps
+##  Databases & DevOps
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,docker,linux,githubactions" />
 </p>
@@ -90,7 +87,7 @@ My guiding principle:
 
 # ⭐ Featured Engineering & AI Projects
 
-### 🗳️ **Cryptographically Secure E-Voting System**
+###  **Cryptographically Secure E-Voting System**
 A fully verifiable national-scale voting prototype using:
 - Paillier homomorphic encryption  
 - Zero-Knowledge Proof validation  
@@ -101,7 +98,7 @@ A fully verifiable national-scale voting prototype using:
 
 ---
 
-### 🧠 **MM-HIE — Multimodal Healthcare Intelligence Engine**
+###  **MM-HIE — Multimodal Healthcare Intelligence Engine**
 An AI system capable of clinical-grade reasoning:
 - Reads and interprets medical documents  
 - Extracts structured data using OCR + NLP  
@@ -112,7 +109,7 @@ An AI system capable of clinical-grade reasoning:
 
 ---
 
-### 🤖 **MAX — Face-Verified AI Assistant**
+###  **MAX — Face-Verified AI Assistant**
 A personal assistant with:
 - Real-time facial verification  
 - Wake-word activation  
@@ -124,7 +121,7 @@ A personal assistant with:
 
 ---
 
-### 🌆 **Kolkata Tour AI**
+###  **Kolkata Tour AI**
 AI-powered tourism platform with:
 - Automated itinerary planning  
 - OCR-based historical information  
@@ -134,21 +131,15 @@ AI-powered tourism platform with:
 
 ---
 
-### 📈 **AI Stock Market Predictor**
+###  **AI Stock Market Predictor**
 - Predicts next-day market movement for NIFTY indices  
 - Integrates technical indicators + deep learning  
 - Designed for use within a production-grade Flutter UI  
 
 ---
 
-### 🎮 **2D Racing Game with Reinforcement Learning Agent**
-- Custom physics engine and collision system  
-- Sensor-based environment perception  
-- RL agent trained to navigate autonomously  
 
----
-
-### 🕵️ **Forgery Detection Dataset (Kaggle)**
+###  **Forgery Detection Dataset (Kaggle)**
 A curated dataset for document integrity analysis:
 - OCR mismatch detection  
 - Metadata validation  
@@ -156,13 +147,6 @@ A curated dataset for document integrity analysis:
 
 ---
 
-### 🌐 **Hideout — Cross-Platform Social Media Application**
-A next-generation social platform featuring:
-- Stories, posts, and real-time messaging  
-- Clean UI with high-performance Flutter architecture  
-- Secure backend and scalable design  
-
----
 
 # 📊 GitHub Analytics
 <p align="center">
@@ -179,7 +163,7 @@ A next-generation social platform featuring:
 
 ---
 
-# 🌐 Connect With Me
+#  Hit me up
 <p>
   <a href="https://www.linkedin.com/in/anas-lari-2626aa247/"><img src="https://skillicons.dev/icons?i=linkedin" width="45px"/></a>
   <a href="https://github.com/anaslari23"><img src="https://skillicons.dev/icons?i=github" width="45px"/></a>
@@ -187,7 +171,3 @@ A next-generation social platform featuring:
 </p>
 
 ---
-
-# 🧠 Engineering Philosophy
-> _“Precision, scalability, and intelligence are the foundation of every system I build.”_  
-> _“My goal is to develop technology that is dependable, adaptive, and impactful.”_
