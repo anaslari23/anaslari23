@@ -153,9 +153,6 @@ A curated dataset for document integrity analysis:
   <img src="https://streak-stats.demolab.com?user=anaslari23&theme=transparent&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaslari23&show_icons=true&theme=transparent&hide_border=true" width="60%" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaslari23&theme=github-light&hide_border=true" width="90%" />
