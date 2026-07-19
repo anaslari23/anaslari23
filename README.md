@@ -85,8 +85,12 @@
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/2eb872/anaslari23" alt="Anas Lari's GitHub Contributions Chart" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=anaslari23&theme=react-dark&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaslari23&theme=github-light&hide_border=true" width="95%" alt="Activity Graph" />
+  </picture>
 </p>
+
 
 
 ---
