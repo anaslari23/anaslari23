@@ -79,8 +79,28 @@
   </picture>
   &nbsp;&nbsp;
   <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anaslari23&theme=solarized_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=anaslari23&theme=default" height="150" alt="Top Languages" />
+  </picture>
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anaslari23&theme=solarized_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=anaslari23&theme=default" height="150" alt="Productive Time" />
+  </picture>
+  &nbsp;&nbsp;
+  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=anaslari23&theme=dark&hide_border=true">
     <img src="https://streak-stats.demolab.com?user=anaslari23&theme=clean&hide_border=true" height="150" alt="GitHub Streak" />
+  </picture>
+</p>
+
+<h4 align="center">Contribution Map</h4>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anaslari23/anaslari23/output/github-snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/anaslari23/anaslari23/output/github-snake.svg" alt="GitHub Contribution Snake" width="100%" />
   </picture>
 </p>
 
@@ -90,6 +110,7 @@
     <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaslari23&theme=github-light&hide_border=true" width="95%" alt="Activity Graph" />
   </picture>
 </p>
+
 
 
 
