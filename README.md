@@ -1,21 +1,45 @@
-# Anas Lari
+# <h1 align="center"><strong>Anas Lari</strong></h1>
 
-<p align="left">
-  <strong>AI Engineer • Full-Stack Developer • Mobile Developer • Systems Architect</strong>
-</p>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&center=true&vCenter=true&width=500&height=40&lines=AI+Engineer;Full-Stack+Developer;Mobile+Developer;Systems+Architect&color=A9B1D6">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&center=true&vCenter=true&width=500&height=40&lines=AI+Engineer;Full-Stack+Developer;Mobile+Developer;Systems+Architect&color=24292E" alt="Typing SVG" />
+  </picture>
 
-I design and develop **intelligent systems**, **scalable backend architectures**, and **high-performance cross-platform applications**. My work integrates advanced AI capabilities with clean, reliable engineering to build practical, production-grade solutions.
+  <p align="center">
+    I design and develop <strong>intelligent systems</strong>, <strong>scalable backend architectures</strong>, and <strong>high-performance cross-platform applications</strong>. My work integrates advanced AI capabilities with clean, reliable engineering to build practical, production-grade solutions.
+  </p>
+</div>
 
 ---
 
 ### 🛠️ Technical Toolkit
 
-| Domain | Technologies |
-| :--- | :--- |
-| **AI & Machine Learning** | ![Python](https://img.shields.io/badge/Python-24292e?style=flat&logo=python&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-24292e?style=flat&logo=tensorflow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-24292e?style=flat&logo=pytorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-24292e?style=flat&logo=opencv&logoColor=white) |
-| **Web & Backend** | ![TypeScript](https://img.shields.io/badge/TypeScript-24292e?style=flat&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-24292e?style=flat&logo=react&logoColor=white) ![Next.js](https://img.shields.io/badge/Next.js-24292e?style=flat&logo=nextdotjs&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-24292e?style=flat&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-24292e?style=flat&logo=nodedotjs&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-24292e?style=flat&logo=laravel&logoColor=white) |
-| **Mobile Engineering** | ![Flutter](https://img.shields.io/badge/Flutter-24292e?style=flat&logo=flutter&logoColor=white) ![Dart](https://img.shields.io/badge/Dart-24292e?style=flat&logo=dart&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-24292e?style=flat&logo=firebase&logoColor=white) |
-| **Databases & DevOps** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292e?style=flat&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-24292e?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-24292e?style=flat&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-24292e?style=flat&logo=docker&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-24292e?style=flat&logo=githubactions&logoColor=white) |
+* **AI & Machine Learning**
+  ![Python](https://img.shields.io/badge/Python-24292e?style=flat-square&logo=python&logoColor=white)
+  ![TensorFlow](https://img.shields.io/badge/TensorFlow-24292e?style=flat-square&logo=tensorflow&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-24292e?style=flat-square&logo=pytorch&logoColor=white)
+  ![OpenCV](https://img.shields.io/badge/OpenCV-24292e?style=flat-square&logo=opencv&logoColor=white)
+
+* **Web & Backend**
+  ![TypeScript](https://img.shields.io/badge/TypeScript-24292e?style=flat-square&logo=typescript&logoColor=white)
+  ![React](https://img.shields.io/badge/React-24292e?style=flat-square&logo=react&logoColor=white)
+  ![Next.js](https://img.shields.io/badge/Next.js-24292e?style=flat-square&logo=nextdotjs&logoColor=white)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-24292e?style=flat-square&logo=fastapi&logoColor=white)
+  ![Node.js](https://img.shields.io/badge/Node.js-24292e?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![Laravel](https://img.shields.io/badge/Laravel-24292e?style=flat-square&logo=laravel&logoColor=white)
+
+* **Mobile Engineering**
+  ![Flutter](https://img.shields.io/badge/Flutter-24292e?style=flat-square&logo=flutter&logoColor=white)
+  ![Dart](https://img.shields.io/badge/Dart-24292e?style=flat-square&logo=dart&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-24292e?style=flat-square&logo=firebase&logoColor=white)
+
+* **Databases & DevOps**
+  ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-24292e?style=flat-square&logo=postgresql&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-24292e?style=flat-square&logo=mysql&logoColor=white)
+  ![Redis](https://img.shields.io/badge/Redis-24292e?style=flat-square&logo=redis&logoColor=white)
+  ![Docker](https://img.shields.io/badge/Docker-24292e?style=flat-square&logo=docker&logoColor=white)
+  ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-24292e?style=flat-square&logo=githubactions&logoColor=white)
 
 ---
 
@@ -49,13 +73,22 @@ I design and develop **intelligent systems**, **scalable backend architectures**
 ### 📊 GitHub Activity & Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anaslari23&show_icons=true&theme=transparent&hide_border=true" height="150" alt="GitHub Stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaslari23&theme=solarized_dark">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=anaslari23&theme=default" height="150" alt="GitHub Stats" />
+  </picture>
   &nbsp;&nbsp;
-  <img src="https://streak-stats.demolab.com?user=anaslari23&theme=transparent&hide_border=true" height="150" alt="GitHub Streak" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=anaslari23&theme=dark&hide_border=true">
+    <img src="https://streak-stats.demolab.com?user=anaslari23&theme=clean&hide_border=true" height="150" alt="GitHub Streak" />
+  </picture>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaslari23&theme=github-light&hide_border=true" width="95%" alt="Activity Graph" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=anaslari23&theme=react-dark&hide_border=true">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaslari23&theme=github-light&hide_border=true" width="95%" alt="Activity Graph" />
+  </picture>
 </p>
 
 ---
@@ -64,14 +97,14 @@ I design and develop **intelligent systems**, **scalable backend architectures**
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anas-lari-2626aa247/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-24292e?style=flat&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" height="28" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://github.com/anaslari23" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-24292e?style=flat&logo=github&logoColor=white" height="28" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" alt="GitHub" />
   </a>
   &nbsp;
   <a href="mailto:anaslari4work@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-24292e?style=flat&logo=gmail&logoColor=white" height="28" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" height="28" alt="Gmail" />
   </a>
 </p>
