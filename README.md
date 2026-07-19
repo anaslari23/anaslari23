@@ -13,7 +13,7 @@
 
 ---
 
-### 🛠️ Technical Toolkit
+###  Technical Toolkit
 
 * **AI & Machine Learning**
   ![Python](https://img.shields.io/badge/Python-24292e?style=flat-square&logo=python&logoColor=white)
@@ -43,7 +43,7 @@
 
 ---
 
-### 🧠 Expertise & Focus
+###  Expertise & Focus
 
 #### Artificial Intelligence & Machine Learning
 - **LLM Systems:** Development, fine-tuning, and prompt optimization.
@@ -70,7 +70,7 @@
 
 ---
 
-### 📊 GitHub Activity & Statistics
+###  GitHub Activity & Statistics
 
 <p align="center">
   <picture>
@@ -85,15 +85,13 @@
 </p>
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=anaslari23&theme=react-dark&hide_border=true">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=anaslari23&theme=github-light&hide_border=true" width="95%" alt="Activity Graph" />
-  </picture>
+  <img src="https://ghchart.rshah.org/2eb872/anaslari23" alt="Anas Lari's GitHub Contributions Chart" width="100%" />
 </p>
+
 
 ---
 
-### 📬 Let's Connect
+###  Let's Connect
 
 <p align="left">
   <a href="https://www.linkedin.com/in/anas-lari-2626aa247/" target="_blank">
