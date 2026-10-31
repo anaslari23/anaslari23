@@ -15,9 +15,7 @@
 
 ###  About Me
 
-- Based in **Kolkata, India**
 - Building **production-grade agentic AI systems** and **Odoo / ERP integrations**
-- Pursuing a **B.Tech in Computer Science (AI & ML)** at Bengal Institute of Technology, graduating 2028
 - Publishing open-source **agent skills** for coding agents like Claude Code, Codex and Antigravity
 - Portfolio: [portfolio-anas-lari.vercel.app](https://portfolio-anas-lari.vercel.app)
 
