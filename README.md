@@ -13,6 +13,16 @@
 
 ---
 
+###  About Me
+
+- Based in **Kolkata, India**
+- Building **production-grade agentic AI systems** and **Odoo / ERP integrations**
+- Pursuing a **B.Tech in Computer Science (AI & ML)** at Bengal Institute of Technology, graduating 2028
+- Publishing open-source **agent skills** for coding agents like Claude Code, Codex and Antigravity
+- Portfolio: [portfolio-anas-lari.vercel.app](https://portfolio-anas-lari.vercel.app)
+
+---
+
 ###  Technical Toolkit
 
 * **AI & Machine Learning**
@@ -20,6 +30,11 @@
   ![TensorFlow](https://img.shields.io/badge/TensorFlow-24292e?style=flat-square&logo=tensorflow&logoColor=white)
   ![PyTorch](https://img.shields.io/badge/PyTorch-24292e?style=flat-square&logo=pytorch&logoColor=white)
   ![OpenCV](https://img.shields.io/badge/OpenCV-24292e?style=flat-square&logo=opencv&logoColor=white)
+
+* **Agentic AI & ERP**
+  ![Anthropic](https://img.shields.io/badge/Claude-24292e?style=flat-square&logo=anthropic&logoColor=white)
+  ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-24292e?style=flat-square&logo=huggingface&logoColor=white)
+  ![Odoo](https://img.shields.io/badge/Odoo-24292e?style=flat-square&logo=odoo&logoColor=white)
 
 * **Web & Backend**
   ![TypeScript](https://img.shields.io/badge/TypeScript-24292e?style=flat-square&logo=typescript&logoColor=white)
@@ -51,6 +66,11 @@
 - **Reinforcement Learning:** Custom training environments and intelligent agent design.
 - **Performance:** Multimodal reasoning engines, dataset creation, and model quantization.
 
+#### Agentic AI & ERP
+- **Agentic Systems:** Autonomous, tool-using agents built for real business workflows.
+- **Odoo / ERP:** Module development and AI assistants embedded in ERP systems.
+- **Agent Skills:** Reusable skill packages that extend coding agents.
+
 #### Web & Backend Engineering
 - **Architecture:** Microservices, distributed systems, and real-time WebSocket communication.
 - **Backend APIs:** Robust service layers with FastAPI, Node.js/Express, and Laravel.
@@ -67,6 +87,18 @@
 - **Containerization:** Dockerized backend and AI workflows.
 - **CI/CD:** Automated build, test, and deploy pipelines using GitHub Actions.
 - **Infrastructure:** Linux server configuration, deployment, and systems administration.
+
+---
+
+###  Featured: Agent Skills
+
+Open-source skills for coding agents (Claude Code, Codex, Antigravity and others).
+
+| Skill | What it does |
+|---|---|
+| [**job-hunt-outreach**](https://github.com/anaslari23/job-hunt-outreach) | Runs a full job hunt from your CV: finds openings, verifies them, builds a spreadsheet, applies and drafts cold emails with your approval. |
+| [**verify-before-done**](https://github.com/anaslari23/verify-before-done) | Makes the agent run and verify any code or config change before it reports the task as done. |
+| [**inventor-mindset**](https://github.com/anaslari23/inventor-mindset) | Pushes the agent past the obvious solution when building something new, with first-principles thinking. |
 
 ---
 
@@ -125,6 +157,10 @@
   &nbsp;
   <a href="https://github.com/anaslari23" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" height="28" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://portfolio-anas-lari.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-24292e?style=flat-square&logo=vercel&logoColor=white" height="28" alt="Portfolio" />
   </a>
   &nbsp;
   <a href="mailto:anaslari4work@gmail.com">
