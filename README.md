@@ -56,7 +56,8 @@
 
 ---
 
-###  Expertise & Focus
+<details>
+<summary><h3 style="display:inline">&nbsp;Expertise &amp; Focus (click to expand)</h3></summary>
 
 #### Artificial Intelligence & Machine Learning
 - **LLM Systems:** Development, fine-tuning, and prompt optimization.
@@ -85,6 +86,20 @@
 - **Containerization:** Dockerized backend and AI workflows.
 - **CI/CD:** Automated build, test, and deploy pipelines using GitHub Actions.
 - **Infrastructure:** Linux server configuration, deployment, and systems administration.
+
+</details>
+
+---
+
+###  Featured Projects
+
+| Project | What it is | Stack |
+|---|---|---|
+| [**max-ai**](https://github.com/anaslari23/max-ai) | Full-stack multimodal personal assistant with a voice-first UX, real-time wake-word activation, face authentication, retrieval-augmented intelligence and a 3D hologram interface. | Python |
+| [**SHIAN-OS**](https://github.com/anaslari23/SHIAN-OS) | A personal AI operating system that unifies voice intelligence, real-time perception and automation. | C |
+| [**Multi-Modal-Health-AI-Agent-Guide**](https://github.com/anaslari23/Multi-Modal-Health-AI-Agent-Guide) | MM-HIE Agent: fuses symptoms (NLP), labs (OCR), medical imaging and vitals for explainable differential diagnosis, risk scoring and clinical reports. | Python |
+| [**kolkata-tour-ai**](https://github.com/anaslari23/kolkata-tour-ai) | Offline-capable, location-aware AI travel assistant for exploring Kolkata. | Dart, Flutter |
+| [**air-keyboard**](https://github.com/anaslari23/air-keyboard) | Experimental virtual keyboard: type in the air using only your hands and a standard webcam. | Python |
 
 ---
 
