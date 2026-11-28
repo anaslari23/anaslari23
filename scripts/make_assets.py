@@ -3,7 +3,7 @@
 import sys
 from PIL import Image, ImageDraw, ImageFont, ImageEnhance, ImageFilter
 
-BG = (22, 27, 45)
+BG = (10, 15, 27)
 MONO = "/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf"
 SANS = "/usr/share/fonts/opentype/inter/Inter-ExtraBold.otf"
 
