@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="assets/portrait.png" width="420" alt="ASCII portrait of Anas Lari's avatar: a duck with headphones at a laptop" />
+<img src="assets/portrait.png" width="460" alt="ASCII portrait of Anas Lari's avatar: a duck with headphones at a laptop" />
 
 <img src="assets/wordmark.png" width="640" alt="ANAS LARI" />
 
