@@ -4,7 +4,7 @@
     python3 scripts/ascii_art.py wordmark "ANAS LARI"
     python3 scripts/ascii_art.py portrait [photo.jpg] [--cols 60]
 
-Without a photo, `portrait` draws a stylised developer silhouette.
+Without a photo, `portrait` draws a placeholder silhouette.
 """
 import sys
 from PIL import Image, ImageDraw, ImageFont, ImageOps, ImageFilter, ImageChops
@@ -58,10 +58,10 @@ def silhouette(n=600):
 
 def portrait(path=None, cols=56):
     img = Image.open(path).convert("L") if path else silhouette()
-    img = ImageOps.fit(img, (cols, round(cols * 0.5)))
-    if path:
-        img = ImageOps.autocontrast(img, cutoff=2)
-    ramp = " .,:;i1tfLCG08@"
+    img = ImageOps.fit(img, (cols, round(cols * 0.5)), Image.LANCZOS)
+    if path:  # photos: dark = dense ink, light = empty (reads well on light and dark themes)
+        img = ImageOps.autocontrast(ImageOps.invert(img), cutoff=2).point(lambda v: int(255 * (v / 255) ** 2.2))
+    ramp = " .:-=+*#%@"
     out = []
     for y in range(img.height):
         out.append("".join(ramp[img.getpixel((x, y)) * (len(ramp) - 1) // 255] for x in range(img.width)).rstrip())
