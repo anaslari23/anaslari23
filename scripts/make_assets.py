@@ -3,7 +3,7 @@
 import sys
 from PIL import Image, ImageDraw, ImageFont, ImageEnhance, ImageFilter
 
-BG = (13, 17, 23)
+BG = (22, 27, 45)
 MONO = "/usr/share/fonts/truetype/dejavu/DejaVuSansMono-Bold.ttf"
 SANS = "/usr/share/fonts/opentype/inter/Inter-ExtraBold.otf"
 
@@ -12,8 +12,8 @@ def portrait(src, out, cols=150, cw=7, ch=13):
     img = Image.open(src).convert("RGB")
     rows = round(cols * cw / ch)
     img = img.resize((cols, rows), Image.LANCZOS)
-    img = ImageEnhance.Color(img).enhance(1.35)
-    ramp = " .:-=+*#%@"
+    img = ImageEnhance.Contrast(ImageEnhance.Color(img).enhance(1.35)).enhance(1.25)
+    ramp = " .'`:;-~=+*xo#%&@"
     font = ImageFont.truetype(MONO, ch - 2)
     W, H = cols * cw, rows * ch
     im = Image.new("RGB", (W, H), BG)
@@ -22,10 +22,12 @@ def portrait(src, out, cols=150, cw=7, ch=13):
         for x in range(cols):
             r, g, b = img.getpixel((x, y))
             lum = (0.299 * r + 0.587 * g + 0.114 * b) / 255
-            c = ramp[int(min(1, lum ** 1.7 * 1.15) * (len(ramp) - 1))]
+            c = ramp[int(min(1, lum ** 1.15) * (len(ramp) - 1))]
             if c != " ":
-                k = 1.15
-                d.text((x * cw, y * ch), c, font=font, fill=(min(255, int(r * k)), min(255, int(g * k)), min(255, int(b * k))))
+                # brighten: lift dark inks so shadows (headphones, laptop) stay visible
+                m = max(r, g, b, 1)
+                k = max(1.25, 170 / m)
+                d.text((x * cw, y * ch), c, font=font, fill=(min(255, int(r * k) + 25), min(255, int(g * k) + 25), min(255, int(b * k) + 25)))
     im.save(out)
 
 
